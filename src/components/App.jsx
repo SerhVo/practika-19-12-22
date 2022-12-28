@@ -1,6 +1,3 @@
-import { TodoForm } from "./TodoForm/TodoForm";
-import { Todolist } from "./TodoList/Todolist";
-
 export const App = () => {
   return (
     <div
@@ -13,8 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      <TodoForm />
-      <Todolist />
+      React homework template
     </div>
   );
 };
