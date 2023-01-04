@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/practika-19-12-22/static/css/main.7acaea2f.css",
-    "main.js": "/practika-19-12-22/static/js/main.514e443f.js",
+    "main.js": "/practika-19-12-22/static/js/main.5c390956.js",
     "index.html": "/practika-19-12-22/index.html",
     "main.7acaea2f.css.map": "/practika-19-12-22/static/css/main.7acaea2f.css.map",
-    "main.514e443f.js.map": "/practika-19-12-22/static/js/main.514e443f.js.map"
+    "main.5c390956.js.map": "/practika-19-12-22/static/js/main.5c390956.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.514e443f.js"
+    "static/js/main.5c390956.js"
   ]
 }
