@@ -8,7 +8,7 @@ export const Todolist = () => {
     console.log(todos)
     return < ol > {
         todos.map(elem => <li key={elem.id}>
-            <title>{elem.title}</title>
+            <p>{elem.title}</p>
             <p>{elem.description}</p>
             <input type="checkbox" onChange={() => { dispatch(updateTodoAction({ todo: { ...elem, isDone: !elem.isDone } })) }} checked={elem.isDone} />
             <button type="button" onClick={() => { dispatch(deleteTodoAction({ id: elem.id })) }} >delete</button>
